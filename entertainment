@@ -3,8 +3,21 @@
     <TITLE>Entertainment</TITLE>
     </HEAD>
     <BODY>
-    <A href="">
-        <IMG Src= "croshet.jpg" Height= "40" Width= "50"
-        Align= "Middle"></A>
+    
+        <A href="https://www.netflix.com/watch/80117471?trackId=255824129&tctx=0%2C0%2CNAPA%40%40%7C0d7660a1-6553-4880-8169-0c50fc209270-169657686_titles%2F1%2F%2F13%20reasaons%20why%2F0%2F0%2CNAPA%40%40%7C0d7660a1-6553-4880-8169-0c50fc209270-169657686_titles%2F1%2F%2F13%20reasaons%20why%2F0%2F0%2Cunknown%2C%2C0d7660a1-6553-4880-8169-0c50fc209270-169657686%7C1%2C%2C%2CVideo%3A80117470  ">
+            <IMG Src= "13 reasons why.jpeg" Height= "40" Width= "50"
+            Align= "Middle"></A>
+            <A href="https://www.netflix.com/watch/80004161?trackId=14185574&tctx=3%2C3%2C0d7660a1-6553-4880-8169-0c50fc209270-169615574%2CNES_AEFC7414AA872861D733B5A79987E6-87D07902C496E3-0184975BD9_p_1674319637585%2CNES_AEFC7414AA872861D733B5A79987E6_p_1674319637585%2C%2C%2C%2C%2CVideo%3A70281562 ">
+                <IMG Src= "b99.jpeg" Height= "40" Width= "50"
+                Align= "Middle"></A>
+                <A href="https://www.netflix.com/watch/80077368?trackId=15035895 ">
+                    <IMG Src= "StrangerThings.jpg" Height= "40" Width= "50"
+                    Align= "Middle"></A>
+                    <A href="https://www.netflix.com/watch/80003008?trackId=15035895&tctx=4%2C5%2C0d7660a1-6553-4880-8169-0c50fc209270-169627228%2CNES_AEFC7414AA872861D733B5A79987E6-A3F87CB3ABAB23-0184975BD9_p_1674319637585%2CNES_AEFC7414AA872861D733B5A79987E6_p_1674319637585%2C%2C%2C%2C%2CVideo%3A80002479 ">
+                        <IMG Src= "peaky blindeers.jpeg" Height= "40" Width= "50"
+                        Align= "Middle"></A>
+                        <A href="https://www.netflix.com/watch/80203147?trackId=14185095&tctx=7%2C3%2C0d7660a1-6553-4880-8169-0c50fc209270-169627228%2CNES_AEFC7414AA872861D733B5A79987E6-346E68DC0BB950-0184975BD9_p_1674319637585%2CNES_AEFC7414AA872861D733B5A79987E6_p_1674319637585%2C%2C%2C%2C80203147%2CVideo%3A80203147 ">
+                            <IMG Src= "to all the boys.jpg" Height= "40" Width= "50"
+                            Align= "Middle"></A>
     </BODY>
 </HTML>
