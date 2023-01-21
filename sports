@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+<TITLE>Sports</TITLE>
+</HEAD>
+<BODY>
+    <MARQUEE Width= "50%"> This will take only 50% width of
+        Browser Window</MARQUEE>
+</BODY>
+
+</HTML>
