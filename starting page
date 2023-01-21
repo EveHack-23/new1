@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<TITLE>Starting Page</TITLE>
+</HEAD>
+<BODY>
+<TABLE border="2" align="bottom page" >
+<TR>
+<TD>
+    <A href="evehack.html">Fashion </A></TD>
+    <TD>Entertainment</TD>
+</TR>
+<TR>
+        <TD>Sports</TD>
+        <TD>Information</TD>
+        </TR>
+        <TR>
+            <TD>Social Media</TD>
+            </TR>
+
+</TABLE>
+</BODY>
+</HTML>
+
+
